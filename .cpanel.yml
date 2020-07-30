@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/expovirt894/repositories/prueba_git/
+    - /bin/cp * $DEPLOYPATH
