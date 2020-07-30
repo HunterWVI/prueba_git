@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/expovirt894/public_html/prueba_git2/
+    - export DEPLOYPATH=/home/expovirt894/public_html/new_project/
     - /bin/cp * $DEPLOYPATH
